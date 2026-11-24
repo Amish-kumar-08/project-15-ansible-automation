@@ -1,0 +1,19 @@
+# Private keys
+*.pem
+*.key
+
+# AWS credentials
+.aws/
+credentials
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ansible
+*.retry
+
+# Temporary files
+*.log
